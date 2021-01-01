@@ -17,7 +17,7 @@ status-website:
   cname: status.logsentinel.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/LogSentinel/status/master/LogSentinel_Shield.png
   name: LogSentinel Status
   introTitle: LogSentinel Services Status
   introMessage: Monitor LogSentinel Services status from this page
