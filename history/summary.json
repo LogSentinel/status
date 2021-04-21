@@ -24,18 +24,19 @@
     "url": "https://api.logsentinel.com",
     "icon": "https://favicons.githubusercontent.com/api.logsentinel.com",
     "slug": "log-sentinel-siem-api",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 757,
     "timeDay": 607,
     "timeWeek": 754,
     "timeMonth": 834,
     "timeYear": 757,
     "dailyMinutesDown": {
+      "2021-04-21": 2,
       "2021-02-15": 39
     }
   },
@@ -44,9 +45,9 @@
     "url": "https://app.logsentinel.com",
     "icon": "https://favicons.githubusercontent.com/app.logsentinel.com",
     "slug": "sentinel-trails",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -56,6 +57,7 @@
     "timeMonth": 749,
     "timeYear": 734,
     "dailyMinutesDown": {
+      "2021-04-21": 0,
       "2021-02-15": 39
     }
   },
