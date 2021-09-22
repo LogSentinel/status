@@ -76,17 +76,19 @@
     "url": "https://db.logsentinel.com",
     "icon": "https://favicons.githubusercontent.com/db.logsentinel.com",
     "slug": "sentinel-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 1128,
-    "timeWeek": 690,
-    "timeMonth": 721,
-    "timeYear": 698,
-    "dailyMinutesDown": {}
+    "time": 697,
+    "timeDay": 811,
+    "timeWeek": 665,
+    "timeMonth": 714,
+    "timeYear": 697,
+    "dailyMinutesDown": {
+      "2021-09-22": 0
+    }
   }
 ]
