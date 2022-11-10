@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.83%",
+    "uptimeWeek": "94.38%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "98.82%",
     "time": 1533,
-    "timeDay": 760,
-    "timeWeek": 751,
-    "timeMonth": 852,
+    "timeDay": 589,
+    "timeWeek": 798,
+    "timeMonth": 850,
     "timeYear": 1682,
     "dailyMinutesDown": {
       "2022-11-03": 636,
@@ -66,9 +66,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.14%",
     "time": 1235,
-    "timeDay": 920,
-    "timeWeek": 874,
-    "timeMonth": 871,
+    "timeDay": 612,
+    "timeWeek": 806,
+    "timeMonth": 869,
     "timeYear": 1332,
     "dailyMinutesDown": {
       "2022-10-13": 17,
@@ -101,8 +101,7 @@
       "2022-02-22": 43,
       "2022-02-18": 23,
       "2022-02-11": 26,
-      "2021-11-29": 24,
-      "2021-11-10": 169
+      "2021-11-29": 24
     }
   },
   {
@@ -111,15 +110,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.logsentinel.com.ico",
     "slug": "sentinel-trails",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.83%",
+    "uptimeWeek": "94.39%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "98.92%",
     "time": 1182,
-    "timeDay": 865,
-    "timeWeek": 762,
-    "timeMonth": 828,
+    "timeDay": 601,
+    "timeWeek": 810,
+    "timeMonth": 826,
     "timeYear": 1287,
     "dailyMinutesDown": {
       "2022-11-03": 636,
@@ -154,8 +153,7 @@
       "2022-03-31": 21,
       "2022-02-22": 43,
       "2022-02-18": 23,
-      "2022-02-11": 26,
-      "2021-11-10": 169
+      "2022-02-11": 26
     }
   },
   {
@@ -169,10 +167,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 768,
-    "timeDay": 782,
-    "timeWeek": 792,
-    "timeMonth": 789,
+    "time": 767,
+    "timeDay": 578,
+    "timeWeek": 729,
+    "timeMonth": 787,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2022-10-05": 712
