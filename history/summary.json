@@ -165,19 +165,19 @@
     "url": "https://db.logsentinel.com",
     "icon": "https://icons.duckduckgo.com/ip3/db.logsentinel.com.ico",
     "slug": "sentinel-db",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.86%",
     "time": 770,
-    "timeDay": 544,
-    "timeWeek": 722,
-    "timeMonth": 751,
+    "timeDay": 598,
+    "timeWeek": 731,
+    "timeMonth": 752,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2022-12-09": 0,
+      "2022-12-09": 28,
       "2022-10-05": 712
     }
   }
