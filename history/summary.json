@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
     "time": 1537,
-    "timeDay": 1141,
-    "timeWeek": 910,
-    "timeMonth": 819,
-    "timeYear": 1625,
+    "timeDay": 1103,
+    "timeWeek": 937,
+    "timeMonth": 836,
+    "timeYear": 1624,
     "dailyMinutesDown": {
       "2022-12-04": 31,
       "2022-12-03": 36,
@@ -66,9 +66,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.16%",
     "time": 1237,
-    "timeDay": 998,
-    "timeWeek": 846,
-    "timeMonth": 820,
+    "timeDay": 1100,
+    "timeWeek": 883,
+    "timeMonth": 833,
     "timeYear": 1269,
     "dailyMinutesDown": {
       "2023-01-26": 23,
@@ -102,8 +102,7 @@
       "2022-05-04": 510,
       "2022-04-05": 40,
       "2022-03-31": 21,
-      "2022-02-22": 43,
-      "2022-02-18": 23
+      "2022-02-22": 43
     }
   },
   {
@@ -118,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.94%",
     "time": 1183,
-    "timeDay": 1013,
-    "timeWeek": 860,
-    "timeMonth": 811,
+    "timeDay": 1025,
+    "timeWeek": 878,
+    "timeMonth": 825,
     "timeYear": 1251,
     "dailyMinutesDown": {
       "2022-12-04": 31,
@@ -156,8 +155,7 @@
       "2022-05-04": 430,
       "2022-04-05": 25,
       "2022-03-31": 21,
-      "2022-02-22": 43,
-      "2022-02-18": 23
+      "2022-02-22": 43
     }
   },
   {
@@ -166,18 +164,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.logsentinel.com.ico",
     "slug": "sentinel-db",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.45%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.80%",
-    "time": 874,
-    "timeDay": 4030,
-    "timeWeek": 1527,
-    "timeMonth": 1365,
-    "timeYear": 911,
+    "time": 875,
+    "timeDay": 4081,
+    "timeWeek": 1549,
+    "timeMonth": 1397,
+    "timeYear": 912,
     "dailyMinutesDown": {
-      "2023-02-17": 10,
       "2023-02-09": 18,
       "2023-02-08": 17,
       "2023-02-07": 18,
