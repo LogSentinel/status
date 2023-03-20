@@ -1,7 +1,7 @@
 url: https://db.logsentinel.com
-status: down
-code: 503
-responseTime: 448
-lastUpdated: 2023-03-19T23:50:18.864Z
+status: up
+code: 200
+responseTime: 1035
+lastUpdated: 2023-03-20T00:00:29.748Z
 startTime: Thu Mar 16 2023 11:46:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
