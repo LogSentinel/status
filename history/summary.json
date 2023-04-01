@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 847,
     "timeMonth": 820,
-    "timeYear": 1606,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2022-12-04": 31,
       "2022-12-03": 36,
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 837,
     "timeMonth": 935,
-    "timeYear": 1244,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2023-01-26": 23,
       "2023-01-10": 34,
@@ -117,7 +117,7 @@
     "timeDay": 0,
     "timeWeek": 825,
     "timeMonth": 795,
-    "timeYear": 1219,
+    "timeYear": 1218,
     "dailyMinutesDown": {
       "2022-12-04": 31,
       "2022-12-03": 36,
@@ -158,17 +158,17 @@
     "url": "https://db.logsentinel.com",
     "icon": "https://icons.duckduckgo.com/ip3/db.logsentinel.com.ico",
     "slug": "sentinel-db",
-    "status": "up",
-    "uptime": "87.84%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "89.64%",
-    "uptimeMonth": "87.84%",
-    "uptimeYear": "87.84%",
+    "status": "down",
+    "uptime": "87.97%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "89.77%",
+    "uptimeMonth": "87.97%",
+    "uptimeYear": "87.97%",
     "time": 1706,
-    "timeDay": 2753,
-    "timeWeek": 2638,
-    "timeMonth": 2341,
-    "timeYear": 1800,
+    "timeDay": 2681,
+    "timeWeek": 2624,
+    "timeMonth": 2343,
+    "timeYear": 1799,
     "dailyMinutesDown": {
       "2023-04-01": 24,
       "2023-03-31": 132,
@@ -189,8 +189,7 @@
       "2023-03-16": 158,
       "2023-03-15": 235,
       "2023-03-14": 92,
-      "2023-03-13": 66,
-      "2023-03-12": 22
+      "2023-03-13": 66
     }
   }
 ]
