@@ -158,18 +158,19 @@
     "url": "https://db.logsentinel.com",
     "icon": "https://icons.duckduckgo.com/ip3/db.logsentinel.com.ico",
     "slug": "sentinel-db",
-    "status": "up",
-    "uptime": "88.22%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "89.40%",
-    "uptimeMonth": "88.22%",
-    "uptimeYear": "88.22%",
+    "status": "down",
+    "uptime": "88.40%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "88.40%",
+    "uptimeYear": "88.40%",
     "time": 1688,
-    "timeDay": 3587,
-    "timeWeek": 2795,
-    "timeMonth": 2412,
-    "timeYear": 1841,
+    "timeDay": 3377,
+    "timeWeek": 2785,
+    "timeMonth": 2409,
+    "timeYear": 1840,
     "dailyMinutesDown": {
+      "2023-04-02": 0,
       "2023-04-01": 87,
       "2023-03-31": 132,
       "2023-03-30": 165,
@@ -188,8 +189,7 @@
       "2023-03-17": 111,
       "2023-03-16": 158,
       "2023-03-15": 235,
-      "2023-03-14": 92,
-      "2023-03-13": 21
+      "2023-03-14": 92
     }
   }
 ]
