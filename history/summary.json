@@ -11,9 +11,9 @@
     "uptimeMonth": "98.77%",
     "uptimeYear": "98.73%",
     "time": 1534,
-    "timeDay": 1142,
-    "timeWeek": 927,
-    "timeMonth": 789,
+    "timeDay": 832,
+    "timeWeek": 963,
+    "timeMonth": 798,
     "timeYear": 1531,
     "dailyMinutesDown": {
       "2023-04-10": 540,
@@ -46,8 +46,7 @@
       "2022-06-13": 22,
       "2022-06-10": 19,
       "2022-06-09": 26,
-      "2022-05-05": 207,
-      "2022-05-04": 764
+      "2022-05-05": 207
     }
   },
   {
@@ -56,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.logsentinel.com.ico",
     "slug": "log-sentinel-siem-api",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.05%",
     "uptimeYear": "98.68%",
     "time": 1239,
-    "timeDay": 1044,
-    "timeWeek": 871,
-    "timeMonth": 688,
-    "timeYear": 1190,
+    "timeDay": 833,
+    "timeWeek": 913,
+    "timeMonth": 695,
+    "timeYear": 1189,
     "dailyMinutesDown": {
       "2023-04-10": 616,
       "2023-04-09": 1363,
@@ -97,8 +96,7 @@
       "2022-06-13": 22,
       "2022-06-10": 19,
       "2022-06-09": 26,
-      "2022-05-05": 173,
-      "2022-05-04": 510
+      "2022-05-05": 173
     }
   },
   {
@@ -113,10 +111,10 @@
     "uptimeMonth": "98.76%",
     "uptimeYear": "98.86%",
     "time": 1186,
-    "timeDay": 1032,
-    "timeWeek": 890,
-    "timeMonth": 784,
-    "timeYear": 1164,
+    "timeDay": 831,
+    "timeWeek": 925,
+    "timeMonth": 794,
+    "timeYear": 1163,
     "dailyMinutesDown": {
       "2023-04-10": 541,
       "2022-12-04": 31,
@@ -148,8 +146,7 @@
       "2022-06-10": 19,
       "2022-06-09": 26,
       "2022-05-28": 35,
-      "2022-05-05": 130,
-      "2022-05-04": 430
+      "2022-05-05": 130
     }
   },
   {
@@ -158,15 +155,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.logsentinel.com.ico",
     "slug": "sentinel-db",
     "status": "up",
-    "uptime": "95.99%",
+    "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "95.99%",
-    "time": 1750,
-    "timeDay": 1047,
-    "timeWeek": 870,
-    "timeMonth": 1187,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "96.07%",
+    "time": 1751,
+    "timeDay": 832,
+    "timeWeek": 913,
+    "timeMonth": 758,
     "timeYear": 1857,
     "dailyMinutesDown": {
       "2023-04-04": 27,
