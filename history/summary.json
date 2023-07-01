@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.93%",
-    "time": 1459,
-    "timeDay": 801,
-    "timeWeek": 764,
-    "timeMonth": 769,
-    "timeYear": 1493,
+    "time": 1458,
+    "timeDay": 813,
+    "timeWeek": 796,
+    "timeMonth": 764,
+    "timeYear": 1492,
     "dailyMinutesDown": {
       "2023-04-10": 540,
       "2022-12-04": 31,
@@ -40,8 +40,7 @@
       "2022-07-28": 202,
       "2022-07-20": 22,
       "2022-07-13": 23,
-      "2022-07-07": 24,
-      "2022-07-01": 47
+      "2022-07-07": 24
     }
   },
   {
@@ -56,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.58%",
     "time": 1162,
-    "timeDay": 797,
-    "timeWeek": 757,
-    "timeMonth": 753,
+    "timeDay": 839,
+    "timeWeek": 794,
+    "timeMonth": 748,
     "timeYear": 1178,
     "dailyMinutesDown": {
       "2023-05-17": 757,
@@ -87,8 +86,7 @@
       "2022-07-28": 181,
       "2022-07-20": 21,
       "2022-07-13": 23,
-      "2022-07-07": 24,
-      "2022-07-01": 47
+      "2022-07-07": 24
     }
   },
   {
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
     "time": 1156,
-    "timeDay": 767,
-    "timeWeek": 721,
-    "timeMonth": 739,
+    "timeDay": 908,
+    "timeWeek": 773,
+    "timeMonth": 737,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2023-04-10": 541,
@@ -131,8 +129,7 @@
       "2022-07-28": 216,
       "2022-07-20": 21,
       "2022-07-13": 23,
-      "2022-07-07": 24,
-      "2022-07-01": 47
+      "2022-07-07": 24
     }
   },
   {
@@ -141,15 +138,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.logsentinel.com.ico",
     "slug": "sentinel-db",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.19%",
-    "time": 1751,
-    "timeDay": 774,
-    "timeWeek": 712,
-    "timeMonth": 729,
+    "uptimeYear": "98.21%",
+    "time": 1752,
+    "timeDay": 987,
+    "timeWeek": 777,
+    "timeMonth": 731,
     "timeYear": 1857,
     "dailyMinutesDown": {
       "2023-04-04": 27,
