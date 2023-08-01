@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.23%",
-    "time": 1482,
-    "timeDay": 1073,
-    "timeWeek": 803,
-    "timeMonth": 772,
-    "timeYear": 1297,
+    "uptimeYear": "99.32%",
+    "time": 1481,
+    "timeDay": 744,
+    "timeWeek": 798,
+    "timeMonth": 770,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2023-04-10": 540,
       "2022-12-04": 31,
@@ -32,8 +32,7 @@
       "2022-09-01": 125,
       "2022-08-19": 39,
       "2022-08-13": 17,
-      "2022-08-02": 697,
-      "2022-08-01": 479
+      "2022-08-02": 697
     }
   },
   {
@@ -46,12 +45,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.89%",
-    "time": 1165,
-    "timeDay": 1068,
-    "timeWeek": 772,
-    "timeMonth": 762,
-    "timeYear": 1070,
+    "uptimeYear": "98.93%",
+    "time": 1167,
+    "timeDay": 762,
+    "timeWeek": 770,
+    "timeMonth": 760,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2023-05-17": 757,
       "2023-05-16": 552,
@@ -71,8 +70,7 @@
       "2022-09-06": 121,
       "2022-09-01": 125,
       "2022-08-19": 39,
-      "2022-08-02": 685,
-      "2022-08-01": 356
+      "2022-08-02": 685
     }
   },
   {
@@ -85,12 +83,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.38%",
     "time": 1096,
-    "timeDay": 1033,
-    "timeWeek": 780,
-    "timeMonth": 767,
-    "timeYear": 925,
+    "timeDay": 777,
+    "timeWeek": 777,
+    "timeMonth": 763,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2023-04-10": 541,
       "2022-12-04": 31,
@@ -107,8 +105,7 @@
       "2022-09-06": 121,
       "2022-09-01": 125,
       "2022-08-19": 39,
-      "2022-08-02": 559,
-      "2022-08-01": 269
+      "2022-08-02": 559
     }
   },
   {
@@ -117,15 +114,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/db.logsentinel.com.ico",
     "slug": "sentinel-db",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
-    "time": 1753,
-    "timeDay": 1071,
-    "timeWeek": 827,
-    "timeMonth": 775,
+    "uptimeYear": "98.61%",
+    "time": 1752,
+    "timeDay": 764,
+    "timeWeek": 824,
+    "timeMonth": 768,
     "timeYear": 1851,
     "dailyMinutesDown": {
       "2023-04-04": 27,
