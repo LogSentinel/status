@@ -41,9 +41,9 @@
     "slug": "log-sentinel-siem-api",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 1169,
     "timeDay": 584,
@@ -51,7 +51,6 @@
     "timeMonth": 767,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2023-08-04": 4,
       "2023-05-17": 757,
       "2023-05-16": 552,
       "2023-04-10": 616,
@@ -87,7 +86,7 @@
     "timeDay": 814,
     "timeWeek": 910,
     "timeMonth": 796,
-    "timeYear": 810,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2023-04-10": 541,
       "2022-12-04": 31,
@@ -121,7 +120,7 @@
     "timeDay": 779,
     "timeWeek": 876,
     "timeMonth": 795,
-    "timeYear": 1850,
+    "timeYear": 1851,
     "dailyMinutesDown": {
       "2023-04-04": 27,
       "2023-04-03": 95,
