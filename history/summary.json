@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.55%",
-    "time": 1442,
-    "timeDay": 622,
-    "timeWeek": 702,
-    "timeMonth": 793,
+    "time": 1441,
+    "timeDay": 595,
+    "timeWeek": 701,
+    "timeMonth": 789,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2023-08-09": 17,
@@ -29,8 +29,7 @@
       "2022-09-21": 43,
       "2022-09-08": 28,
       "2022-09-07": 16,
-      "2022-09-06": 121,
-      "2022-09-01": 125
+      "2022-09-06": 121
     }
   },
   {
@@ -39,18 +38,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.logsentinel.com.ico",
     "slug": "log-sentinel-siem-api",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "99.41%",
+    "uptime": "99.43%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.09%",
     "time": 1099,
-    "timeDay": 724,
-    "timeWeek": 695,
-    "timeMonth": 708,
+    "timeDay": 720,
+    "timeWeek": 690,
+    "timeMonth": 707,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2023-08-31": 27,
+      "2023-08-31": 17,
       "2023-08-30": 104,
       "2023-08-28": 38,
       "2023-08-27": 47,
@@ -71,8 +70,7 @@
       "2022-09-21": 43,
       "2022-09-08": 28,
       "2022-09-07": 16,
-      "2022-09-06": 121,
-      "2022-09-01": 125
+      "2022-09-06": 121
     }
   },
   {
@@ -87,9 +85,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.55%",
     "time": 1097,
-    "timeDay": 662,
-    "timeWeek": 710,
-    "timeMonth": 776,
+    "timeDay": 538,
+    "timeWeek": 695,
+    "timeMonth": 769,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2023-08-09": 17,
@@ -105,8 +103,7 @@
       "2022-09-21": 43,
       "2022-09-08": 28,
       "2022-09-07": 16,
-      "2022-09-06": 121,
-      "2022-09-01": 125
+      "2022-09-06": 121
     }
   },
   {
@@ -121,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 1751,
-    "timeDay": 515,
-    "timeWeek": 646,
-    "timeMonth": 713,
+    "timeDay": 572,
+    "timeWeek": 638,
+    "timeMonth": 707,
     "timeYear": 1849,
     "dailyMinutesDown": {
       "2023-04-04": 27,
