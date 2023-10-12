@@ -1,7 +1,7 @@
 url: https://api.logsentinel.com
-status: down
-code: 502
-responseTime: 331
-lastUpdated: 2023-10-12T07:21:46.229Z
+status: up
+code: 200
+responseTime: 627
+lastUpdated: 2023-10-12T07:41:52.108Z
 startTime: 2021-01-01T19:48:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
