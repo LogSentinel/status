@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.79%",
     "uptimeDay": "97.37%",
-    "uptimeWeek": "91.46%",
+    "uptimeWeek": "91.68%",
     "uptimeMonth": "32.38%",
     "uptimeYear": "94.26%",
     "time": 958,
@@ -49,10 +49,10 @@
     "url": "https://api.logsentinel.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.logsentinel.com.ico",
     "slug": "log-sentinel-siem-api",
-    "status": "up",
-    "uptime": "97.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.02%",
+    "status": "down",
+    "uptime": "97.86%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "92.23%",
     "uptimeMonth": "28.97%",
     "uptimeYear": "93.30%",
     "time": 831,
@@ -61,6 +61,7 @@
     "timeMonth": 1084,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2024-02-16": 0,
       "2024-02-09": 1042,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
@@ -113,7 +114,7 @@
       "2023-05-17": 757,
       "2023-05-16": 552,
       "2023-04-10": 616,
-      "2023-04-09": 1195
+      "2023-04-09": 1166
     }
   },
   {
@@ -124,7 +125,7 @@
     "status": "up",
     "uptime": "97.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.02%",
+    "uptimeWeek": "92.24%",
     "uptimeMonth": "32.51%",
     "uptimeYear": "94.27%",
     "time": 962,
