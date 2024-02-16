@@ -1,7 +1,7 @@
 url: https://siem.logsentinel.com
-status: down
-code: 504
-responseTime: 10362
-lastUpdated: 2024-02-16T04:29:02.005Z
+status: up
+code: 200
+responseTime: 5749
+lastUpdated: 2024-02-16T04:48:46.218Z
 startTime: 2021-01-01T19:48:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
